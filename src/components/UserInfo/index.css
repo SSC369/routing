@@ -1,0 +1,12 @@
+.blog-item {
+  margin-left: 20px;
+  margin-right: 20px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.description {
+  color: #616e7c;
+  font-size: 14px;
+}
